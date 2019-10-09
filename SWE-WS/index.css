@@ -1,0 +1,22 @@
+h1 {
+    text-align: center;
+}
+
+#peppa {
+    display: block;
+    margin-left: auto;
+    margin-right:auto;
+    width: 40%
+}
+
+#funny_quote {
+    text-align: center;
+    font-size: 25px;
+}
+
+#click {
+    display: block;
+    margin-left: auto;
+    margin-right:auto;
+    font-size: 40px;
+}
